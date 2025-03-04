@@ -1,0 +1,6 @@
+/assets/logo.png
+*.db
+/config/hallowed-tea-387701-34bbaf2630f4.json
+.env
+.discloud.config
+__pycache__/

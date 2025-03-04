@@ -1,0 +1,17 @@
+{
+    "prefix": "!",
+    "sheet_id": "sheet_id example",
+    "staff_role": 1336790018945187850,
+    "categorys": {
+        "comercial": 1331396823729967228,
+        "contabil": 1336790093054345226,
+        "rh": 1336790153200533535,
+        "fiscal": 1336790334591471717,
+        "certificado_digital": 1336790312487616512,
+        "consultoria": 1336790347161927792,
+        "registro_de_marcas_patentes": 1331380741237510207,
+        "orcamento": 1336790278480334960
+    },
+    "canal_boasvindas": 1336790422512730212,
+    "canal_transcripts": 1337093943728275548
+}
